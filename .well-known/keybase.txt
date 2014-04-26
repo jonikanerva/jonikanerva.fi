@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/joni
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jonikanerva.fi
+  * I am joni (https://keybase.io/joni) on keybase.
+  * I have a public key with fingerprint D8AF 0B78 4B54 5EB1 3C5F  957B F7A0 94F5 E491 4FAB
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d8af0b784b545eb13c5f957bf7a094f5e4914fab",
+            "host": "keybase.io",
+            "key_id": "F7A094F5E4914FAB",
+            "uid": "527cd07fcf572fefc3311e1d2f7b9e00",
+            "username": "joni"
+        },
+        "service": {
+            "hostname": "jonikanerva.fi",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396731930,
+    "expire_in": 157680000,
+    "prev": "c4cfb6a3fdc5dfe251348e97fd1f5a7ba2a30d104755957deceda876ca446f2d",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFNUVtIFFEY3k1zcclWQyKoDKYsKl1mdmZ2dnZ7UMlb2gWE8qn1zMw567g1M86u
+25r4UChZGpthRRBSK2yUFT1oFkFImasIiZLoQxbh5aGIQDM1EzsjBZ2Xw/lu//+f
+/1pKgslqXrzbtjDderzTPNT7XTCV5WhsHSGoUi3hriP8cP1CsuKDuqbLSpBwE5IL
+IFLgXIzAMiwUKFpkEc9yAuIAyTOIhQxPMQgIRBZRqQYMB44RQADaZRVj+OGVJYwW
+cLlYX8DmG/qC3DzM1awTrIMTJZJDImI5B4JIpGmKgpTkQJzAQ5I0hAGoK+AsxOoq
+VZGJ+iwCIyFZhEa/Rtn/WD9QMAfsSMZOTVeDqqiewVxlMKi5DWuwVjO056Dg/Zvi
+FWRFwlNjQwjqAVlVCDeFlWJQNmIpmndyNMXTZBYBw5qsQ69sKFjO6SLxMcrAEI4U
+GREJTkAjSWQlBB0sRTMuyHNIohALOAE4AE1KFMlwLIv/UIIilICLc4qAYZzIIRHG
+XNWKSriduE3gw5EB2aeAYI0OifrL5h2JJrPVlLRxg7E3kzU59d82G22WteL8wtSe
+UIPn1AAVjVR0329Wv0y+WIk3W+xXyX199MWjKZ8zYi1kuRabOPR6uGpz/NPLPY+K
+fPM3mY6ktJPjlvABv6f/V3vy6mxkcOvhsROl5M/rMbnVfSMzIw6XFtL18dMrpTXb
+LELkzpOJj0vx7fbJ0gjjGagsadh566ulc290ZmZk7Wm0cLSvN+feJXTQturu+fZ2
+pKTjefqRN2l5Q+fLGp89Xi7vFtv1B4EtU11zV/j5/cvZgskNMhY94anq4lfZtR8Q
+Ud8UastLTGgafR9L4aJdxzw/Hk6vDGfOzeoXlApYpKoNLRX+sUCd1RYe/G2z9u/S
+3m3aHbn9Bw==
+=ziQa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joni
+
+==================================================================

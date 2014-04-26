@@ -1,0 +1,72 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,100italic,300italic);
+
+html {
+  background: url("../images/bg.jpg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Lato', Helvetica, Tahoma, Verdana, sans-serif;
+  font-weight: lighter;
+}
+
+.infobox {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 30px;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  width: 500px;
+  border-radius: 7px;
+  background-color: rgba(0,0,0, 0.5);
+}
+
+.title {
+  color: #fff;
+  font-size: 80px;
+  text-shadow: 2px 2px 10px #111;
+}
+
+.subtitle {
+  padding-left: 5px;
+  padding-bottom: 5px;
+  color: #eee;
+  font-size: 23px;
+  letter-spacing: 0.7pt;
+}
+
+.picture {
+  width: 200px;
+  padding-top: 15px;
+  padding-right: 20px;
+  float: left;
+}
+
+.picture img {
+  border-radius: 4px;
+}
+
+.content {
+  padding-top: 13px;
+  line-height: 1.3em;
+  color: #bbb;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.location {
+  font-style: italic;
+  padding-top: 20px;
+  color: #eee;
+  font-size: 15px;
+}
+
+.contact, a {
+  padding-top: 20px;
+  font-size: 30px;
+  padding-right: 3px;
+  color: #eee;
+}
+
+.contact, a:hover {
+  color: #aaa;
+}
