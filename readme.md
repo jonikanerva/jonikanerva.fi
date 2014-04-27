@@ -1,1 +1,1 @@
-Jekyll source for [jonikanerva.github.io](http://jonikanerva.github.io).
+Jekyll source for [jonikanerva.fi](http://jonikanerva.fi).
