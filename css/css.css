@@ -17,14 +17,13 @@ html {
 }
 
 .infobox {
+  width: 580px;
   background-color: rgba(0,0,0, 0.5);
   border-radius: 7px;
-  max-width: 580px;
   padding-bottom: 20px;
   padding-left: 30px;
   padding-right: 30px;
   padding-top: 10px;
-  width: 100%;
 }
 
 .title {
@@ -49,7 +48,7 @@ html {
   width: 100%;
 }
 
-.picture {
+.picture, .content {
   display: inline-block;
 }
 
@@ -59,12 +58,11 @@ html {
 }
 
 .content {
-  display: inline-block;
+  width: 330px;
   font-size: large;
   line-height: 1.3em;
   padding-left: 20px;
   vertical-align: top;
-  width: 60%;
 }
 
 .contact {
