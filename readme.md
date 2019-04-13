@@ -1,1 +1,1 @@
-Jekyll source for [jonikanerva.fi](http://jonikanerva.fi).
+Source for [jonikanerva.fi](https://jonikanerva.fi).
